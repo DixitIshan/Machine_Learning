@@ -1,0 +1,22 @@
+K_Means_ML
+
+You will need to have following dependencies installed.
+1) pip install numpy
+2) pip install pandas
+3) pip install matplotlib
+4) pip install scikit-learn
+5) pip install scipy
+
+Following are the links for the tutorials on K-Means Clustering that I have used.
+
+1) http://unsupervisedlearning.co.uk/2017/11/10/unsupervised-learning-k-means-clustering/
+
+2) https://mubaris.com/posts/kmeans-clustering/
+
+3) https://pythonprogramming.net/k-means-titanic-dataset-machine-learning-tutorial/
+
+4) https://pythonprogramming.net/k-means-from-scratch-machine-learning-tutorial/
+
+5) https://chrisalbon.com
+
+6) https://pythonprogramminglanguage.com/machine-learning/
