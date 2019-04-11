@@ -1,0 +1,18 @@
+# ML_K_Nearest_Neighbors
+
+You will need to have following dependencies installed.
+1) pip install numpy
+2) pip install pandas
+3) pip install matplotlib
+4) pip install scikit-learn
+5) pip install scipy
+
+Following are the links for the tutorials on Linear Regression that I have used.
+
+1) http://unsupervisedlearning.co.uk/2017/11/09/supervised-learning-k-nearest-neighbours/
+
+2) https://pythonprogramming.net/k-nearest-neighbors-intro-machine-learning-tutorial/
+
+3) https://chrisalbon.com/
+
+4) https://pythonspot.com/k-nearest-neighbors/

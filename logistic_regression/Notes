@@ -1,0 +1,15 @@
+# logistic_regression
+
+You will need to have following dependencies installed.
+1) pip install numpy
+2) pip install pandas
+3) pip install matplotlib
+4) pip install seaborn
+5) pip install scikit-learn
+6) pip install scipy
+
+Following are the links for the tutorials on Linear Regression that I have used.
+
+1) http://unsupervisedlearning.co.uk/2017/11/09/supervised-learning-logistic-regression/
+
+2) https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8

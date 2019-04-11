@@ -1,0 +1,27 @@
+# SVM_basics_ML
+
+You will need to have following dependencies installed.
+
+pip install numpy
+
+pip install pandas
+
+pip install matplotlib
+
+pip install scikit-learn
+
+pip install scipy
+
+Following are the links for the tutorials on Support Vector Machine classification that I have used.
+
+1) https://mubaris.com/posts/svm/
+
+2) https://pythonprogramming.net/support-vector-machine-intro-machine-learning-tutorial/
+
+3) https://chrisalbon.com/
+
+4) http://unsupervisedlearning.co.uk/2017/11/10/supervised-learning-support-vector-machines/
+
+5) http://benalexkeen.com/support-vector-classifiers-in-python-using-scikit-learn/
+
+6) https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
