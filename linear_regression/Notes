@@ -1,0 +1,24 @@
+# LinearRegression_ML_prac
+
+
+You will need to have following dependencies installed
+
+pip install numpy,
+
+pip install pandas,
+
+pip install matplotlib,
+
+pip install seaborn,
+
+pip install scikit-learn,
+
+pip install scipy
+
+Following are the links for the tutorials on Linear Regression that I have used
+
+1) https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/
+
+2) http://unsupervisedlearning.co.uk/2017/11/09/supervised-learning-linear-regression-bias-variance-trade-off/
+
+3) https://www.geeksforgeeks.org/linear-regression-python-implementation/
