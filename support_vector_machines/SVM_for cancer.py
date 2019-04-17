@@ -57,7 +57,7 @@ The grid of parameters is defined as a dictionary, where the keys are the parame
 C controls the costs of misclassification on the training data – high C value gives you low bias and high variance as there is a high penalisation for misclassification
 Large gamma will lead to high bias and low variance
 '''
-grid_parameters = {'C' : [0.1,1, 10, 100, 1000], 'gamma' : [1,0.1,0.01,0.001,0.0001], 'kernel' : [rbf]}
+grid_parameters = {'C' : [0.1,1, 10, 100, 1000], 'gamma' : [1,0.1,0.01,0.001,0.0001], 'kernel' : ['rbf']}
 grid = GridSearchCV(SVC(), grid_parameters, verbose = 10)
 grid.fit(X_train,y_train)
 
