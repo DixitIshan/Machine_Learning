@@ -7,7 +7,7 @@ You will need to have following dependencies installed.
 4) pip install scikit-learn
 5) pip install scipy
 
-Following are the links for the tutorials on Linear Regression that I have used.
+Following are the links for the tutorials on KNN that I have used.
 
 1) http://unsupervisedlearning.co.uk/2017/11/09/supervised-learning-k-nearest-neighbours/
 
