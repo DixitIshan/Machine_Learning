@@ -1,6 +1,6 @@
 # IMPORTING ALL THE NECESSARY LIBRARIES
 import numpy as np
-from sklearn.cluster import MeanShift, KMeans
+from sklearn.cluster import MeanShift
 from sklearn import preprocessing, cross_validation
 import pandas as pd
 import matplotlib.pyplot as plt
